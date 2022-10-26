@@ -1,0 +1,24 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "api de ejemplo para android",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dabizu/apirest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dabizu/apirest/issues"
+  },
+  "homepage": "https://github.com/Dabizu/apirest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
